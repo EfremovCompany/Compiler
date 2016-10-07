@@ -1,0 +1,21 @@
+<const
+int a = 0;
+int b = 2;
+/>
+<main
+array mas[10] = { 8, 2, 4, 7, 3, 3, 9, 1 };
+<for i = 0 to 10
+int f = 2 + 2 * 3;
+<for j = 0 to 10
+if mas[j] mor mas[j + 1]
+<true
+int buf = mas[j];
+mas[j] = mas[j + 1];
+mas[j + 1] = mas[j]; 
+/>
+/>
+/>
+<for j = 0 to 10
+output (mas[j]);
+/>
+/>

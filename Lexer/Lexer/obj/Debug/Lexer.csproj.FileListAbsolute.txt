@@ -1,0 +1,6 @@
+C:\Users\Сергей\Desktop\2 Sem\Lexer\Lexer\bin\Debug\Lexer.exe.config
+C:\Users\Сергей\Desktop\2 Sem\Lexer\Lexer\bin\Debug\Lexer.exe
+C:\Users\Сергей\Desktop\2 Sem\Lexer\Lexer\bin\Debug\Lexer.pdb
+C:\Users\Сергей\Desktop\2 Sem\Lexer\Lexer\obj\Debug\Lexer.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\2 Sem\Lexer\Lexer\obj\Debug\Lexer.exe
+C:\Users\Сергей\Desktop\2 Sem\Lexer\Lexer\obj\Debug\Lexer.pdb

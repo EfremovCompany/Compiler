@@ -1,0 +1,7 @@
+C:\Users\Сергей\Desktop\2 Sem\Semantic\Semantic\bin\Debug\Semantic.exe.config
+C:\Users\Сергей\Desktop\2 Sem\Semantic\Semantic\bin\Debug\Semantic.exe
+C:\Users\Сергей\Desktop\2 Sem\Semantic\Semantic\bin\Debug\Semantic.pdb
+C:\Users\Сергей\Desktop\2 Sem\Semantic\Semantic\obj\Debug\Semantic.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\2 Sem\Semantic\Semantic\obj\Debug\Semantic.exe
+C:\Users\Сергей\Desktop\2 Sem\Semantic\Semantic\obj\Debug\Semantic.pdb
+C:\Users\Сергей\Desktop\2 Sem\Semantic\Semantic\bin\Debug\xNet.dll
