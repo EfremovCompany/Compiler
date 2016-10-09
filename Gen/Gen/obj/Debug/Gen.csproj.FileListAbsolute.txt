@@ -1,0 +1,6 @@
+C:\Users\Сергей\Desktop\2 Sem\Gen\Gen\bin\Debug\Gen.exe.config
+C:\Users\Сергей\Desktop\2 Sem\Gen\Gen\bin\Debug\Gen.exe
+C:\Users\Сергей\Desktop\2 Sem\Gen\Gen\bin\Debug\Gen.pdb
+C:\Users\Сергей\Desktop\2 Sem\Gen\Gen\obj\Debug\Gen.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\2 Sem\Gen\Gen\obj\Debug\Gen.exe
+C:\Users\Сергей\Desktop\2 Sem\Gen\Gen\obj\Debug\Gen.pdb
